@@ -1,9 +1,9 @@
-# LazyBooklet #
+# LazyBlooket #
 
 i dont have time to play blooket
 
 ### Requirements ###
-* pip3 install -r requirements
+* pip3 install -r requirements.txt
 
 ### How to run ###
 ```bash
